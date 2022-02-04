@@ -1,5 +1,6 @@
 __all__ = ['cef_export',
            'defender_endpoint_export',
+           'fidelis_ipfeed_export',
            'goamlexport',
            'liteexport',
            'mass_eql_export',
